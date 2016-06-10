@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-06-09-Variaveis de Ambiente
+title: Variaveis de Ambiente
 ---
 
 #!/bin/bash
